@@ -1,4 +1,6 @@
 # Elm For Beginners
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Felm.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Felm?ref=badge_shield)
+
 This repo is the source companion to the following course on Learning Elmlang:
 http://courses.knowthen.com/courses/elm-for-beginners
 
@@ -30,3 +32,7 @@ What can you do to manage the learning challenges facing software developers?
 
 I don't want to waste your time, so you'll learn just what you need to know as quickly as possible. You'll start this course with the end in mind. What do I mean by that? We're going to be building a web application, and you'll learn just what you need to build the app.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Felm.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Felm?ref=badge_large)
